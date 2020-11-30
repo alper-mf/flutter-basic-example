@@ -1,7 +1,7 @@
 # Flutter Basic Examples - Flutter Basit Örnekler
 
 [ENG] - This Examples for new to Flutter.
-[TR]  - Bu örnekler Flutter'da yeni olanlar için hazırlandıç
+[TR]  - Bu örnekler Flutter'da yeni olanlar için hazırlandı.
 
 ## Getting Started
 
