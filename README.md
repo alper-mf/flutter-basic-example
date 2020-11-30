@@ -1,6 +1,7 @@
-# isinlasana_demo
+# Flutter Basic Examples - Flutter Basit Örnekler
 
-A new Flutter application.
+[ENG] - This Examples for new to Flutter.
+[TR]  - Bu örnekler Flutter'da yeni olanlar için hazırlandıç
 
 ## Getting Started
 
